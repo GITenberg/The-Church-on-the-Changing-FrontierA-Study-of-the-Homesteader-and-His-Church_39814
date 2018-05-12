@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40245'
     url: http://www.gutenberg.org/2009/agents/40245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39814#The-Church-on-the-Changing-FrontierA-Study-of-the-Homesteader-and-His-Church
 gutenberg_issued: '2012-05-27'
 gutenberg_type: Text
 identifiers:
